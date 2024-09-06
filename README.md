@@ -43,7 +43,7 @@ Clone the repository and run the Jupyter Notebook to interact with the code.
 ```bash
 git clone <repository-url>
 cd <project-folder>
-jupyter notebook Encrypted_Communication_Adra.ipynb
+jupyter notebook Custom_Hashed_Function_Fixed.ipynb
 ```
 
 ## License
